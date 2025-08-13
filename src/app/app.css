@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(61, 173, 8);
+}
+
+h2 {
+  color: rgb(45, 11, 138);
+}
+button {
+  margin: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+}
