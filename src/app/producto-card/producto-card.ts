@@ -10,6 +10,5 @@ import { CommonModule } from '@angular/common';
 })
 export class ProductoCardComponent {
   @Input() nombre: string = '';
-  @Input() precio: number = 0;
 }
 
